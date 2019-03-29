@@ -1,3 +1,5 @@
+[deprecated]
+
 # Rightpoint Application Components (RPAC)
 Source code for application components built as Docker containers
 
